@@ -1,0 +1,5 @@
+IPhone,2000
+Samsung Galaxy,1000
+Huawei,700
+Sony,500
+HTC One X,1500
